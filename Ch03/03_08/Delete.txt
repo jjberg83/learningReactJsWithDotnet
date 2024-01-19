@@ -1,0 +1,16 @@
+<div style={{ marginTop: 10 }}>
+        <h2>Delete trip confirmation</h2>
+
+        <div class="card">
+          <div class="card-body">
+            <h4 class="card-title"> +++name here+++ </h4>
+            <p class="card-text"> +++description here+++ </p>
+            <button class="btn btn-default">
+              Cancel
+            </button>
+            <button class="btn btn-danger">
+              Confirm
+            </button>
+          </div>
+        </div>
+      </div>
